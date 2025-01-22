@@ -7,7 +7,7 @@ I’m a software developer passionate about web development. I enjoy crafting in
 
 What Can You Find Here?  
 - Projects: Explore my standout works, like "Tanafas," an interactive storytelling game designed to raise awareness about social anxiety.  
-- Experiences: Learn about my summer internship at the General Presidency of Haramain.  
+- Experiences: Learn about my summer intern as IT at the General Presidency of Haramain.  
 - Skills: Discover my technical and interpersonal skills, from coding to teamwork and communication.  
 
 Let’s Connect!  
