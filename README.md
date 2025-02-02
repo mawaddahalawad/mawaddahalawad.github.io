@@ -1,16 +1,17 @@
-Welcome to My Digital World! 🌟  
+Welcome to My Digital World! 🌟
+Hi there! I’m Mawaddah Alawad, a Computer Science graduate from Umm Al-Qura University with First-Class Honors. This website is my personal hub where I share my projects, experiences, and passions in the tech world.
 
-Hi there! I’m Mawaddah Alawad, a Computer Science graduate from Umm Al-Qura University in Makkah, with First-Class Honors. This website is my personal space where I showcase my passions, projects, and ideas to the world.  
+About Me
+I’m a software developer with a deep passion for web development and user experience design. I love turning ideas into reality through interactive, meaningful, and innovative digital solutions. My expertise spans various programming languages, including HTML, CSS, JavaScript, Python, and Java, along with design tools like Figma.
 
-Who Am I?  
-I’m a software developer passionate about web development. I enjoy crafting innovative user experiences and building tech solutions that address modern challenges. With experience in tools like Figma and programming languages such as HTML, CSS, JavaScript, Python, and Java, I’m always eager to learn and grow.  
+Explore My Work
+🚀 Projects – Check out my standout projects, like Tanafas, an interactive storytelling game designed to raise awareness about social anxiety.
 
-What Can You Find Here?  
-- Projects: Explore my standout works, like "Tanafas," an interactive storytelling game designed to raise awareness about social anxiety.  
-- Experiences: Learn about my summer intern as IT at the General Presidency of Haramain.  
-- Skills: Discover my technical and interpersonal skills, from coding to teamwork and communication.  
+💡 Experiences – Learn about my internship as an IT trainee at the General Presidency of Haramain, where I gained hands-on industry experience.
 
-Let’s Connect!  
-Have a question, an idea, or an opportunity to collaborate? Feel free to reach out to me via email: mawaddahalawaid@gmail.com 
+🔧 Skills – From coding to teamwork and problem-solving, discover the technical and soft skills that shape my journey.
 
-Thank you for visiting my website, and I hope you find something here that inspires you! 🚀  
+Let’s Connect!
+Have a question, a project idea, or an opportunity for collaboration? I’d love to hear from you! Feel free to reach out via email: mawaddahalawaid@gmail.com
+
+Thank you for stopping by! I hope you find something here that sparks inspiration. 🚀
