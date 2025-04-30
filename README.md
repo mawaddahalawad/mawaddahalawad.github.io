@@ -3,7 +3,7 @@
 Hi there! I’m **Mawaddah Alawad**, a Computer Science graduate from Umm Al-Qura University with **First-Class Honors**. This website is my personal hub where I share my **projects, experiences, and passions** in the tech world.  
 
 ## About Me  
-I’m a **software developer** with a deep passion for **web development and user experience design**. I love turning ideas into reality through **interactive, meaningful, and innovative** digital solutions. My expertise spans various programming languages, including **HTML, CSS, JavaScript, Python, and Java**, along with design tools like **Figma**.  
+I’m a **web developer** with a deep passion for **software engineering and artificial intelligence**. I love turning ideas into reality through **interactive, meaningful, and innovative** digital solutions. My expertise spans various programming languages, including **HTML, CSS, JavaScript, Python, and Java**, along with design tools like **Figma**.  
 
 ## Explore My Work  
 
